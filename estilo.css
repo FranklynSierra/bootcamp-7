@@ -1,0 +1,17 @@
+*{
+
+    margin: 0;
+}
+
+html{
+    font-family: sans-serif,monospace;
+    font-size: 20px;
+}
+
+#elemento-1{
+    color: red;
+
+}
+.rem{
+    font-size: 2rem;
+}
